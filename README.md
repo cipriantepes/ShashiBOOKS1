@@ -1,8 +1,16 @@
 
 # TREE VIEW OF ALL BOOKS
+https://github.com/rishabhmodi03/BOOKS
 
+# Visit Our Page for reading all books 
+## https://rishabhmodi03.github.io/Books-catalogue/new_animation/
+
+If you find my books helpful, please star this repository to show your support! 
+Forking is also encouraged if you'd like to experiment or contribute.  Thanks for reading!
 
 ```
+
+BOOKS
 ├── 1. 150
 │   ├── 1000 Useful Words - Build Vocabulary and Literacy Skills by Dawn Sirett.pdf
 │   ├── 365 Days With Self-Discipline by Meadows, Martin.epub
